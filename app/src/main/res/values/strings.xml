@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">lab4</string>
+    <string name="edtName">Enter email</string>
+    <string name="edtEmail">Enter email</string>
+    <string name="edtPassword">Enter Password</string>
+    <string name="edtReTypePassword">Re Type Password</string>
 </resources>
